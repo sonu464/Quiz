@@ -119,7 +119,6 @@ body {
 .pre-btn:hover,
 .next-btn:hover {
     transition: all .1s;
-    border: 1px solid white;
 }
 
 
